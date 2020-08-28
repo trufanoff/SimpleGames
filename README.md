@@ -1,4 +1,2 @@
 # SimpleGames
-#SimpleGames
-│
-└── Classic Snake
+Classic Snake
